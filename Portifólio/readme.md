@@ -6,17 +6,19 @@ Guilherme, 19 anos, estudante de Desenvolvimento de Software Multiplataforma na 
 
 ## Projetos Destacados 💼
 
-### [API - 1º Semestre](link_para_o_projeto)
+### [API - 1º Semestre](https://github.com/404-BIS/Sistema-Gestao-Servicos)
 
-Breve descrição do projeto e seu objetivo, bem como sua contribuição.
+Foi desenvolvido um site, meu papel foi de Product Owner, atuando como intermediário entre o cliente e a equipe de desenvolvimento, com o propósito de criar uma plataforma que facilite o controle de serviços na área de tecnologia da FATEC Profº Jessen Vidal. Utilizando tecnologias como Python (Flask), HTML, CSS e JS, o projeto possibilita a abertura e o encerramento de chamados, agilizando a identificação de problemas dentro do setor. Agradeço a oportunidade de desempenhar esse papel essencial no desenvolvimento do projeto.
 
-### [API - 2º Semestre](link_para_o_projeto)
+### [API - 2º Semestre](https://github.com/MidNight-Tecnology/API-MidAll-2022.2)
 
-Breve descrição do projeto e seu objetivo, bem como sua contribuição.
+Neste projeto, assumi o papel de Master e tive a oportunidade de desempenhar um papel fundamental. Foi desenvolvido um Crawler com um sistema sofisticado de gerenciamento de associados, visando realizar uma série de tarefas complexas e essenciais. O objetivo principal era buscar, ler e distinguir o conteúdo relacionado aos Professores Associados em diferentes fontes de dados, além de realizar cruzamentos relevantes com bases de colaboradores. Através desse processo, foi possível registrar todos os processos publicados envolvendo os associados, oferecendo uma visão abrangente das atividades. Além disso, o sistema emitia relatórios diários, permitindo que a equipe do Backoffice pudesse enviar e-mails aos docentes mencionados no Diário Oficial. Como Master, meu papel consistia em facilitar e promover a aplicação efetiva do framework Scrum no projeto. Trabalhei arduamente para garantir que a equipe compreendesse e seguisse os princípios e práticas do Scrum, além de remover obstáculos, facilitar a colaboração e promover melhorias contínuas ao longo do processo, além de ajudar no desenvolvimento.
 
-### [API - 3º Semestre](link_para_o_projeto)
+### [API - 3º Semestre](https://github.com/orgs/CopiloTTeam/repositories)
 
-Breve descrição do projeto e seu objetivo, bem como sua contribuição.
+Desenvolvemos um sistema abrangente que engloba funcionalidades como cadastro de clientes e gestão de títulos com parcelas, além de integração com a API dos correios para facilitar a inserção de dados de endereço. Com recursos avançados, como o processamento automático de parcelas em lote e fora do expediente, o sistema proporciona maior agilidade e eficiência no gerenciamento financeiro. A segmentação em diferentes tipos de usuários, como setores comercial, financeiro e administrativo, permite a criação e a gestão centralizada de títulos e parcelas, adaptando-se às necessidades específicas de cada área. Além disso, a máscara para moedas garante a formatação correta dos valores financeiros, conferindo maior precisão e clareza aos registros. O sistema também oferece a geração de relatórios detalhados, possibilitando a identificação de clientes adimplentes e inadimplentes, com opções de filtragem por data de crédito, pagamento ou vencimento. Com essa solução abrangente, nossos clientes podem aliviar suas preocupações e otimizar o desempenho de suas atividades empresariais.
+
+Neste projeto, desempenhei o papel de Product Owner, atuando como um elo entre a equipe de desenvolvimento e o cliente. Garanti a priorização adequada dos requisitos e validei a conformidade do produto com as expectativas do cliente, buscando sua plena satisfação.
 
 ## Experiência Profissional 💼
 
