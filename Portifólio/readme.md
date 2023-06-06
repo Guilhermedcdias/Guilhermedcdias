@@ -10,15 +10,39 @@ Guilherme, 19 anos, estudante de Desenvolvimento de Software Multiplataforma na 
 
 Foi desenvolvido um site, meu papel foi de Product Owner, atuando como intermediário entre o cliente e a equipe de desenvolvimento, com o propósito de criar uma plataforma que facilite o controle de serviços na área de tecnologia da FATEC Profº Jessen Vidal. Utilizando tecnologias como Python (Flask), HTML, CSS e JS, o projeto possibilita a abertura e o encerramento de chamados, agilizando a identificação de problemas dentro do setor. Agradeço a oportunidade de desempenhar esse papel essencial no desenvolvimento do projeto.
 
+<b>Objetivo:</b> Construir uma aplicação Web de Gerenciamento de Serviços com as tecnologias Python(Flask), HTML, CSS E JS.
+
+<b>Hard Skills: </b> JavaScript, CSS, HTML e Python.
+
+<b>Soft Skills: </b> Trabalho em Equipe, Comunicação, Transparencia, Responsábilidade, Resolução de problemas e Aprendizagem rápida.
+
+<b>Minhas Contribuições: </b> Ajudei no desenvolvimento do front-end, e na criação da lógica do back-end.
+
 ### [API - 2º Semestre](https://github.com/MidNight-Tecnology/API-MidAll-2022.2)
 
 Neste projeto, assumi o papel de Master e tive a oportunidade de desempenhar um papel fundamental. Foi desenvolvido um Crawler com um sistema sofisticado de gerenciamento de associados, visando realizar uma série de tarefas complexas e essenciais. O objetivo principal era buscar, ler e distinguir o conteúdo relacionado aos Professores Associados em diferentes fontes de dados, além de realizar cruzamentos relevantes com bases de colaboradores. Através desse processo, foi possível registrar todos os processos publicados envolvendo os associados, oferecendo uma visão abrangente das atividades. Além disso, o sistema emitia relatórios diários, permitindo que a equipe do Backoffice pudesse enviar e-mails aos docentes mencionados no Diário Oficial. Como Master, meu papel consistia em facilitar e promover a aplicação efetiva do framework Scrum no projeto. Trabalhei arduamente para garantir que a equipe compreendesse e seguisse os princípios e práticas do Scrum, além de remover obstáculos, facilitar a colaboração e promover melhorias contínuas ao longo do processo, além de ajudar no desenvolvimento.
+
+<b>Objetivo:</b> Construir um Crawler que busca os editais do diario oficial da união, filtra-os e disponibiliza as informações de cada funcionário cadastrado na empresa em um aplicativo web.
+
+<b>Hard Skills: </b> JavaScript, CSS, HTML, react, typescript e Python.
+
+<b>Soft Skills: </b> Trabalho em Equipe, Comunicação, Transparencia, Responsábilidade, Resolução de problemas e Aprendizagem rápida.
+
+<b>Minhas Contribuições: </b> Ajudei no desenvolvimento do front-end, na criação da lógica do back-end, na criação dos crawlers e alem disso fui Scrum Master.
 
 ### [API - 3º Semestre](https://github.com/orgs/CopiloTTeam/repositories)
 
 Desenvolvemos um sistema abrangente que engloba funcionalidades como cadastro de clientes e gestão de títulos com parcelas, além de integração com a API dos correios para facilitar a inserção de dados de endereço. Com recursos avançados, como o processamento automático de parcelas em lote e fora do expediente, o sistema proporciona maior agilidade e eficiência no gerenciamento financeiro. A segmentação em diferentes tipos de usuários, como setores comercial, financeiro e administrativo, permite a criação e a gestão centralizada de títulos e parcelas, adaptando-se às necessidades específicas de cada área. Além disso, a máscara para moedas garante a formatação correta dos valores financeiros, conferindo maior precisão e clareza aos registros. O sistema também oferece a geração de relatórios detalhados, possibilitando a identificação de clientes adimplentes e inadimplentes, com opções de filtragem por data de crédito, pagamento ou vencimento. Com essa solução abrangente, nossos clientes podem aliviar suas preocupações e otimizar o desempenho de suas atividades empresariais.
 
 Neste projeto, desempenhei o papel de Product Owner, atuando como um elo entre a equipe de desenvolvimento e o cliente. Garanti a priorização adequada dos requisitos e validei a conformidade do produto com as expectativas do cliente, buscando sua plena satisfação.
+
+<b>Objetivo:</b> Construir uma aplicação para o gerenciamento de pagamentos de uma empresa. A aplicação Web deve conter um sistema de gerenciamento de funcionario, de cliente, e de pagamentos
+
+<b>Hard Skills: </b> React, Typescript, JavaScript, Java, Node, MySQL e SpringBoot
+
+<b>Soft Skills: </b> Trabalho em Equipe, Comunicação, Transparencia, Responsábilidade, Resolução de problemas e Aprendizagem rápida.
+
+<b>Minhas Contribuições: </b> Como P.O fui responsável por ajudar no backlog e no planejamento das sprints, como desenvolvedor, ajudei com o desenvolvimento do front-end e do back-end.
 
 ## Experiência Profissional 💼
 
