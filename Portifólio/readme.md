@@ -8,15 +8,50 @@ Guilherme, 19 anos, estudante de Desenvolvimento de Software Multiplataforma na 
 
 ### [API - 1º Semestre](https://github.com/404-BIS/Sistema-Gestao-Servicos)
 
+<b>Problema: </b> Eu necessito de um sistema para registro e acompanhamento de problemas, onde seja possível enviar solicitações para executores. Os executores têm a opção de aceitar ou rejeitar as solicitações. Caso aceitem, eles devem resolver o problema e, em seguida, atualizar o status do chamado para "resolvido". Além disso, eles devem ter a capacidade de adicionar fotos que demonstrem a resolução do problema ao chamado. Posteriormente, como solicitante, desejo ter a possibilidade de avaliar tanto o serviço prestado quanto o executor responsável.
+
+<b>Solução: </b> Para solucionar esse problema, propõe-se a implementação de um sistema de Helpdesk com três tipos de usuários: o administrador, o executor e o cliente.
+
+A solução é desenvolvida utilizando tecnologias como Flask, HTML, CSS e JS, proporcionando uma plataforma intuitiva e funcional. O sistema oferece as seguintes funcionalidades:
+
+Registro e acompanhamento de problemas: Os clientes podem registrar suas solicitações, descrevendo detalhadamente o problema enfrentado. Cada problema é registrado com um número de identificação único e um status inicial de "pendente".
+
+Atribuição de executores: O sistema atribui de forma automática e sequencial as solicitações pendentes aos executores.
+
+Aceitação e rejeição de solicitações: Os executores têm a opção de aceitar ou rejeitar as solicitações atribuídas a eles. Caso aceitem, eles se comprometem a resolver o problema dentro de um prazo determinado.
+
+Resolução e atualização de status: Os executores que aceitam uma solicitação devem resolver o problema relatado. Após a resolução, eles atualizam o status do chamado para "resolvido". Além disso, eles têm a capacidade de adicionar fotos que demonstrem a resolução do problema ao chamado.
+
+Avaliação do serviço prestado: Após a resolução do problema, os clientes podem avaliar tanto o serviço prestado quanto o executor responsável. Essas avaliações podem ser usadas para melhorar a qualidade do atendimento e identificar áreas de melhoria.
+
+Painel de controle e relatórios: O sistema fornece um painel de controle para o administrador, permitindo o gerenciamento das solicitações, atribuição de executores e monitoramento do desempenho geral. Também são disponibilizados relatórios estatísticos para análise e tomada de decisões
+
 Foi desenvolvido um site, meu papel foi de Product Owner, atuando como intermediário entre o cliente e a equipe de desenvolvimento, com o propósito de criar uma plataforma que facilite o controle de serviços na área de tecnologia da FATEC Profº Jessen Vidal. Utilizando tecnologias como Python (Flask), HTML, CSS e JS, o projeto possibilita a abertura e o encerramento de chamados, agilizando a identificação de problemas dentro do setor. Agradeço a oportunidade de desempenhar esse papel essencial no desenvolvimento do projeto.
 
-<b>Objetivo:</b> Construir uma aplicação Web de Gerenciamento de Serviços com as tecnologias Python(Flask), HTML, CSS E JS.
+<b>Tencologias Utilizadas: </b> 
+- <img src="https://img.icons8.com/color/48/000000/flask.png"/> Flask
+- <img src="https://img.icons8.com/color/48/000000/mysql.png"/> MySQL
+- <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
+- <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+- <img src="https://img.icons8.com/color/48/000000/figma.png"/> Figma
+- <img src="https://img.icons8.com/color/48/000000/slack.png"/> Slack
 
-<b>Hard Skills: </b> JavaScript, CSS, HTML e Python.
+<b>Soft Skills: </b> 
 
-<b>Soft Skills: </b> Trabalho em Equipe, Comunicação, Transparencia, Responsábilidade, Resolução de problemas e Aprendizagem rápida.
+Ao longo das sprints, desempenhei um papel significativo como Product Owner, fornecendo assistência ao time e solucionando dúvidas e problemas de código. Além disso, como responsável pela comunicação entre o cliente e o time, trabalhei para aprimorá-la, interagindo frequentemente com o cliente para esclarecer as dúvidas da equipe em relação ao projeto.
 
-<b>Minhas Contribuições: </b> Ajudei no desenvolvimento do front-end, e na criação da lógica do back-end.
+Durante a aplicação do processo Scrum, busquei promover a transparência, compartilhando com clareza o meu progresso nas tarefas que assumi. Essa transparência permitiu que todos os membros da equipe acompanhassem o andamento do projeto de forma eficiente.
+
+A responsabilidade foi um aspecto que desenvolvi ao cumprir os prazos estabelecidos para a entrega das sprints, honrando os compromissos assumidos. Além disso, trabalhamos diligentemente para entregar aquilo que foi prometido, evidenciando nosso comprometimento e responsabilidade com o sucesso do projeto.
+
+No que diz respeito à resolução de problemas, destaco minha habilidade em lidar com os desafios que surgiram durante o caminho. Esforcei-me para solucionar a maioria dos obstáculos que encontramos, contribuindo para o avanço contínuo do projeto.
+
+Um dos resultados do meu trabalho com a equipe foi o desenvolvimento da capacidade de aprendizagem rápida. Ao adotarmos o processo Scrum, conseguimos entregar um MVP em apenas três semanas, demonstrando nossa habilidade em absorver conhecimento rapidamente e aplicá-lo de forma eficaz.
+
+Em resumo, minha atuação como Product Owner na equipe foi marcada pela contribuição constante, comunicação eficiente com o cliente, transparência nas informações, cumprimento de prazos, habilidade em resolver problemas e capacidade de aprendizagem rápida. Estou satisfeito(a) com os resultados alcançados e acredito ter desempenhado um papel fundamental no sucesso do projeto.
+
+Em resumo tive contribuições no desenvolvimento do front-end, e na criação da lógica do back-end.
 
 ### [API - 2º Semestre](https://github.com/MidNight-Tecnology/API-MidAll-2022.2)
 
