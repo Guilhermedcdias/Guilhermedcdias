@@ -54,12 +54,20 @@ Em resumo, minha atuação como Product Owner na equipe foi marcada pela contrib
 Em resumo tive contribuições no desenvolvimento do front-end, e na criação da lógica do back-end.
 
 ### [API - 2º Semestre](https://github.com/MidNight-Tecnology/API-MidAll-2022.2)
+<b>Problema: </b>Eu estou em busca de um sistema capaz de proporcionar o cadastro de usuários (funcionários) para minha empresa. Esse sistema deve viabilizar a gestão eficiente dos funcionários, abrangendo a criação, exclusão, edição e visualização de seus perfis. Além disso, é imprescindível que o sistema incorpore um mecanismo de "crawler" para acessar o endpoint do Diário Oficial da União. Por meio desse mecanismo, serão realizadas pesquisas diárias em busca de editais que mencionem meus funcionários. Posteriormente, os arquivos em formato PDF serão baixados, filtrados e armazenados de forma a permitir a visualização dessas informações. Dessa maneira, qualquer funcionário da minha empresa que possua algum registro no Diário Oficial será prontamente identificado e apresentado no sistema de gestão.
+
+<b>Solução: </b> A partir da apresentação do desafio enfrentado pela empresa parceira, MidAll[B], a solução desenvolvida se configura em um Crawler com sistema de gerenciamento de associados, que compreende em um sistema que consiga buscar, ler o arquivo e distinguir o conteúdo referente aos Professores Associados, realizar os cruzamentos essenciais de acordo com as bases de dados de colaboradores que carregam está explicação, registrar todos os processos publicados relacionados aos associados, e emitir relatório diário para que a equipe do Backoffice consiga disparar os e-mails para os docentes citados no Diário Oficial.
 
 Neste projeto, assumi o papel de Master e tive a oportunidade de desempenhar um papel fundamental. Foi desenvolvido um Crawler com um sistema sofisticado de gerenciamento de associados, visando realizar uma série de tarefas complexas e essenciais. O objetivo principal era buscar, ler e distinguir o conteúdo relacionado aos Professores Associados em diferentes fontes de dados, além de realizar cruzamentos relevantes com bases de colaboradores. Através desse processo, foi possível registrar todos os processos publicados envolvendo os associados, oferecendo uma visão abrangente das atividades. Além disso, o sistema emitia relatórios diários, permitindo que a equipe do Backoffice pudesse enviar e-mails aos docentes mencionados no Diário Oficial. Como Master, meu papel consistia em facilitar e promover a aplicação efetiva do framework Scrum no projeto. Trabalhei arduamente para garantir que a equipe compreendesse e seguisse os princípios e práticas do Scrum, além de remover obstáculos, facilitar a colaboração e promover melhorias contínuas ao longo do processo, além de ajudar no desenvolvimento.
 
-<b>Objetivo:</b> Construir um Crawler que busca os editais do diario oficial da união, filtra-os e disponibiliza as informações de cada funcionário cadastrado na empresa em um aplicativo web.
+<b>Tecnologias Utilizadas:</b>
+- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+- <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS
+- <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML
+- <img src="https://img.icons8.com/officel/48/000000/react.png"/> React
+- <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
+- <img src="https://img.icons8.com/color/48/000000/python.png"/> Python
 
-<b>Hard Skills: </b> JavaScript, CSS, HTML, react, typescript e Python.
 
 <b>Soft Skills: </b> Trabalho em Equipe, Comunicação, Transparencia, Responsábilidade, Resolução de problemas e Aprendizagem rápida.
 
