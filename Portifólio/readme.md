@@ -71,7 +71,13 @@ Neste projeto, assumi o papel de Master e tive a oportunidade de desempenhar um 
 
 <b>Soft Skills: </b> Trabalho em Equipe, Comunicação, Transparencia, Responsábilidade, Resolução de problemas e Aprendizagem rápida.
 
-<b>Minhas Contribuições: </b> Ajudei no desenvolvimento do front-end, na criação da lógica do back-end, na criação dos crawlers e alem disso fui Scrum Master.
+<b>Minhas Contribuições: </b> 
+
+Melhorei meu trabalho em equipe ao participar do time, pois precisei me comunicar bem com todos. Além disso, como líder (ou "master"), fui responsável por me comunicar com o M2.
+Demonstrei transparência não apenas com meu time, mas também com o M2.
+Assumi responsabilidade como líder, comparecendo a todas as reuniões e ajudando o time com suas dúvidas.
+Como desenvolvedor e líder, enfrentei muitos problemas que tive que resolver de forma rápida e eficiente.
+Como desenvolvedor, tive que aprender rapidamente todas as novas tecnologias que seriam utilizadas no sistema, a fim de aplicá-las ao projeto.
 
 ### [API - 3º Semestre](https://github.com/orgs/CopiloTTeam/repositories)
 
