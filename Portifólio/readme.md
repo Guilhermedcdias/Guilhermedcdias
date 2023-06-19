@@ -39,15 +39,15 @@ Foi desenvolvido um site, meu papel foi de Product Owner, atuando como intermedi
 
 <b>Soft Skills: </b> 
 
-Ao longo das sprints, desempenhei um papel significativo como Product Owner, fornecendo assistência ao time e solucionando dúvidas e problemas de código. Além disso, como responsável pela comunicação entre o cliente e o time, trabalhei para aprimorá-la, interagindo frequentemente com o cliente para esclarecer as dúvidas da equipe em relação ao projeto.
+- Ao longo das sprints, desempenhei um papel significativo como Product Owner, fornecendo assistência ao time e solucionando dúvidas e problemas de código. Além disso, como responsável pela comunicação entre o cliente e o time, trabalhei para aprimorá-la, interagindo frequentemente com o cliente para esclarecer as dúvidas da equipe em relação ao projeto.
 
-Durante a aplicação do processo Scrum, busquei promover a transparência, compartilhando com clareza o meu progresso nas tarefas que assumi. Essa transparência permitiu que todos os membros da equipe acompanhassem o andamento do projeto de forma eficiente.
+- Durante a aplicação do processo Scrum, busquei promover a transparência, compartilhando com clareza o meu progresso nas tarefas que assumi. Essa transparência permitiu que todos os membros da equipe acompanhassem o andamento do projeto de forma eficiente.
 
-A responsabilidade foi um aspecto que desenvolvi ao cumprir os prazos estabelecidos para a entrega das sprints, honrando os compromissos assumidos. Além disso, trabalhamos diligentemente para entregar aquilo que foi prometido, evidenciando nosso comprometimento e responsabilidade com o sucesso do projeto.
+- A responsabilidade foi um aspecto que desenvolvi ao cumprir os prazos estabelecidos para a entrega das sprints, honrando os compromissos assumidos. Além disso, trabalhamos diligentemente para entregar aquilo que foi prometido, evidenciando nosso comprometimento e responsabilidade com o sucesso do projeto.
 
-No que diz respeito à resolução de problemas, destaco minha habilidade em lidar com os desafios que surgiram durante o caminho. Esforcei-me para solucionar a maioria dos obstáculos que encontramos, contribuindo para o avanço contínuo do projeto.
+- No que diz respeito à resolução de problemas, destaco minha habilidade em lidar com os desafios que surgiram durante o caminho. Esforcei-me para solucionar a maioria dos obstáculos que encontramos, contribuindo para o avanço contínuo do projeto.
 
-Um dos resultados do meu trabalho com a equipe foi o desenvolvimento da capacidade de aprendizagem rápida. Ao adotarmos o processo Scrum, conseguimos entregar um MVP em apenas três semanas, demonstrando nossa habilidade em absorver conhecimento rapidamente e aplicá-lo de forma eficaz.
+- Um dos resultados do meu trabalho com a equipe foi o desenvolvimento da capacidade de aprendizagem rápida. Ao adotarmos o processo Scrum, conseguimos entregar um MVP em apenas três semanas, demonstrando nossa habilidade em absorver conhecimento rapidamente e aplicá-lo de forma eficaz.
 
 Em resumo, minha atuação como Product Owner na equipe foi marcada pela contribuição constante, comunicação eficiente com o cliente, transparência nas informações, cumprimento de prazos, habilidade em resolver problemas e capacidade de aprendizagem rápida. Estou satisfeito(a) com os resultados alcançados e acredito ter desempenhado um papel fundamental no sucesso do projeto.
 
@@ -68,16 +68,15 @@ Neste projeto, assumi o papel de Master e tive a oportunidade de desempenhar um 
 - <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
 - <img src="https://img.icons8.com/color/48/000000/python.png"/> Python
 
+<b>Soft Skills: </b> 
 
-<b>Soft Skills: </b> Trabalho em Equipe, Comunicação, Transparencia, Responsábilidade, Resolução de problemas e Aprendizagem rápida.
+- Melhorei meu trabalho em equipe ao participar do time, pois precisei me comunicar bem com todos. Além disso, como líder (ou "master"), fui responsável por me comunicar com o M2.
+- Demonstrei transparência não apenas com meu time, mas também com o M2.
+- Assumi responsabilidade como líder, comparecendo a todas as reuniões e ajudando o time com suas dúvidas.
+- Como desenvolvedor e líder, enfrentei muitos problemas que tive que resolver de forma rápida e eficiente.
+- Como desenvolvedor, tive que aprender rapidamente todas as novas tecnologias que seriam utilizadas no sistema, a fim de aplicá-las ao projeto.
 
-<b>Minhas Contribuições: </b> 
-
-Melhorei meu trabalho em equipe ao participar do time, pois precisei me comunicar bem com todos. Além disso, como líder (ou "master"), fui responsável por me comunicar com o M2.
-Demonstrei transparência não apenas com meu time, mas também com o M2.
-Assumi responsabilidade como líder, comparecendo a todas as reuniões e ajudando o time com suas dúvidas.
-Como desenvolvedor e líder, enfrentei muitos problemas que tive que resolver de forma rápida e eficiente.
-Como desenvolvedor, tive que aprender rapidamente todas as novas tecnologias que seriam utilizadas no sistema, a fim de aplicá-las ao projeto.
+Em Resumo, minha contribuições para o projeto foi como Master e desenvolvedor, ajudei no frontend e no backend, além de auxliar o P.O e o time no entendimento do projeto.
 
 ### [API - 3º Semestre](https://github.com/orgs/CopiloTTeam/repositories)
 
