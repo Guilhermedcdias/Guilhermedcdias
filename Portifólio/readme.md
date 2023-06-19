@@ -80,15 +80,50 @@ Em Resumo, minha contribuições para o projeto foi como Master e desenvolvedor,
 
 ### [API - 3º Semestre](https://github.com/orgs/CopiloTTeam/repositories)
 
-Desenvolvemos um sistema abrangente que engloba funcionalidades como cadastro de clientes e gestão de títulos com parcelas, além de integração com a API dos correios para facilitar a inserção de dados de endereço. Com recursos avançados, como o processamento automático de parcelas em lote e fora do expediente, o sistema proporciona maior agilidade e eficiência no gerenciamento financeiro. A segmentação em diferentes tipos de usuários, como setores comercial, financeiro e administrativo, permite a criação e a gestão centralizada de títulos e parcelas, adaptando-se às necessidades específicas de cada área. Além disso, a máscara para moedas garante a formatação correta dos valores financeiros, conferindo maior precisão e clareza aos registros. O sistema também oferece a geração de relatórios detalhados, possibilitando a identificação de clientes adimplentes e inadimplentes, com opções de filtragem por data de crédito, pagamento ou vencimento. Com essa solução abrangente, nossos clientes podem aliviar suas preocupações e otimizar o desempenho de suas atividades empresariais.
+<b>Problema: </b>
+Preciso de um sistema que solucione desafios nas áreas de gerenciamento de clientes, gerenciamento de títulos, gerenciamento de funcionários e consulta de endereço por CEP na API dos Correios. O sistema também deve fornecer relatórios de cobranças, processamento em lote, ajustes de bugs e envio de e-mails.
+
+No gerenciamento de clientes, preciso criar, buscar, atualizar e excluir usuários como administrador. O perfil comercial deve criar, buscar e atualizar usuários.
+
+Para o gerenciamento de títulos, o administrador precisa criar, editar, buscar e excluir títulos, além de dar baixa em parcelas. O perfil comercial pode criar, editar e buscar títulos. O perfil financeiro pode dar baixa nas parcelas pagas pelos clientes.
+
+Na gestão de funcionários, o sistema deve permitir a exclusão de funcionários, alteração de cargos, aceitação de novos funcionários e atribuição de cargos. Os perfis de administrador, financeiro e comercial também devem poder fazer login.
+
+O sistema também deve cadastrar endereços de clientes a partir do CEP, utilizando a API dos Correios. A segurança é uma prioridade, garantindo a proteção contra invasões.
+
+Em relação aos relatórios de cobranças, o administrador deve ter acesso a um relatório completo, com informações sobre clientes adimplentes e inadimplentes. O perfil comercial precisa de acesso a um relatório parcial, focado em clientes inadimplentes.
+
+Para otimizar o processamento de parcelas, o sistema deve realizar o processamento em lote após o expediente.
+
+Por fim, o sistema deve estar em conformidade com as expectativas e requisitos estabelecidos pelo cliente, abrangendo ajustes de bugs e a funcionalidade de envio de e-mails para cobrança de boletos.
+
+É essencial que o sistema proposto integre e harmonize todas essas funcionalidades, proporcionando uma solução abrangente e eficiente para a gestão dos processos financeiros e comerciais.
+
+<b>Solução: </b> A solução proposta é um sistema abrangente que inclui cadastro de clientes e gestão de títulos com parcelas, integrando-se à API dos correios para facilitar a inserção de dados de endereço. Com a capacidade de processar parcelas automaticamente em lote e fora do expediente, o sistema promove maior agilidade e eficiência. A segmentação em diferentes tipos de usuários, como comercial, financeiro e administrador, possibilita a criação e gestão centralizada de títulos e parcelas, adaptando-se às necessidades específicas de cada setor. Além disso, a mascara para moedas permite a formatação correta dos valores financeiros. Ademais, o sistema gera relatórios detalhados de clientes adimplentes e inadimplentes, com opções de filtragem por data de credito, de pagamento ou de vencimento. Com essa solução, o cliente pode aliviar suas dores e otimizar seu desempenho empresarial.
 
 Neste projeto, desempenhei o papel de Product Owner, atuando como um elo entre a equipe de desenvolvimento e o cliente. Garanti a priorização adequada dos requisitos e validei a conformidade do produto com as expectativas do cliente, buscando sua plena satisfação.
 
-<b>Objetivo:</b> Construir uma aplicação para o gerenciamento de pagamentos de uma empresa. A aplicação Web deve conter um sistema de gerenciamento de funcionario, de cliente, e de pagamentos
+<b>Tecnologias Utilizadas:</b>
+- <img src="https://img.icons8.com/officel/48/000000/react.png"/> React
+- <img src="https://img.icons8.com/color/48/000000/typescript.png"/> TypeScript
+- <img src="https://img.icons8.com/color/48/000000/javascript.png"/> JavaScript
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
+- <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node
+- <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> MySQL
+- <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> Spring Boot
 
-<b>Hard Skills: </b> React, Typescript, JavaScript, Java, Node, MySQL e SpringBoot
 
-<b>Soft Skills: </b> Trabalho em Equipe, Comunicação, Transparencia, Responsábilidade, Resolução de problemas e Aprendizagem rápida.
+<b>Soft Skills: </b> 
+
+ Ao longo das sprints, desempenhei um papel significativo como Product Owner, fornecendo assistência ao time e solucionando dúvidas e problemas de código. Além disso, como responsável pela comunicação entre o cliente e o time, trabalhei para aprimorá-la, interagindo frequentemente com o cliente para esclarecer as dúvidas da equipe em relação ao projeto.
+
+- Durante a aplicação do processo Scrum, busquei promover a transparência, compartilhando com clareza o meu progresso nas tarefas que assumi. Essa transparência permitiu que todos os membros da equipe acompanhassem o andamento do projeto de forma eficiente.
+
+- A responsabilidade foi um aspecto que desenvolvi ao cumprir os prazos estabelecidos para a entrega das sprints, honrando os compromissos assumidos. Além disso, trabalhamos diligentemente para entregar aquilo que foi prometido, evidenciando nosso comprometimento e responsabilidade com o sucesso do projeto.
+
+- No que diz respeito à resolução de problemas, destaco minha habilidade em lidar com os desafios que surgiram durante o caminho. Esforcei-me para solucionar a maioria dos obstáculos que encontramos, contribuindo para o avanço contínuo do projeto.
+
+- Um dos resultados do meu trabalho com a equipe foi o desenvolvimento da capacidade de aprendizagem rápida. Ao adotarmos o processo Scrum, conseguimos entregar um MVP em apenas três semanas, demonstrando nossa habilidade em absorver conhecimento rapidamente e aplicá-lo de forma eficaz.
 
 <b>Minhas Contribuições: </b> Como P.O fui responsável por ajudar no backlog e no planejamento das sprints, como desenvolvedor, ajudei com o desenvolvimento do front-end e do back-end.
 
