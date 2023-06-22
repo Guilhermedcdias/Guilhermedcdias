@@ -8,7 +8,7 @@ Guilherme, 19 anos, estudante de Desenvolvimento de Software Multiplataforma na 
 
 ### [API - 1º Semestre](https://github.com/404-BIS/Sistema-Gestao-Servicos)
 
-<b>Problema: </b> Eu necessito de um sistema para registro e acompanhamento de problemas, onde seja possível enviar solicitações para executores. Os executores têm a opção de aceitar ou rejeitar as solicitações. Caso aceitem, eles devem resolver o problema e, em seguida, atualizar o status do chamado para "resolvido". Além disso, eles devem ter a capacidade de adicionar fotos que demonstrem a resolução do problema ao chamado. Posteriormente, como solicitante, desejo ter a possibilidade de avaliar tanto o serviço prestado quanto o executor responsável.
+<b>Problema: </b> O cliente necessita de algo para ajudá-lo com o registro e acompanhamento de problemas de um prédio, onde seja possível  registrar ocorrências para executores. Os executores tem que ter a opção de aceitar ou rejeitar as ocorrências. Ele também precisa de alguma forma de registrar depois que a ocorrência foi resolvida e também precisa que seja possível anexar fotos do serviço feito e avaliações dos serviços.
 
 <b>Solução: </b> Para solucionar esse problema, propõe-se a implementação de um sistema de Helpdesk com três tipos de usuários: o administrador, o executor e o cliente.
 
