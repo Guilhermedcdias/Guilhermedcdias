@@ -51,10 +51,11 @@ Foi desenvolvido um site, meu papel foi de Product Owner, atuando como intermedi
 
 Em resumo, minha atuação como Product Owner na equipe foi marcada pela contribuição constante, comunicação eficiente com o cliente, transparência nas informações, cumprimento de prazos, habilidade em resolver problemas e capacidade de aprendizagem rápida. Estou satisfeito(a) com os resultados alcançados e acredito ter desempenhado um papel fundamental no sucesso do projeto.
 
-Em resumo tive contribuições no desenvolvimento do front-end, e na criação da lógica do back-end.
+<b>Hard Skills: </b> 
+No que diz respeito às tecnologias utilizadas no projeto, a minha maior dificuldade foi com o framework Flask, uma vez que eu nunca havia trabalhado com frameworks antes. No entanto, após estudar um pouco, percebi que se tornou bastante fácil, principalmente por ser baseado em Python. Quanto às tecnologias HTML, CSS e JS, não enfrentei dificuldades, uma vez que já possuía experiência prévia com essas tecnologias.
 
 ### [API - 2º Semestre](https://github.com/MidNight-Tecnology/API-MidAll-2022.2)
-<b>Problema: </b>Eu estou em busca de um sistema capaz de proporcionar o cadastro de usuários (funcionários) para minha empresa. Esse sistema deve viabilizar a gestão eficiente dos funcionários, abrangendo a criação, exclusão, edição e visualização de seus perfis. Além disso, é imprescindível que o sistema incorpore um mecanismo de "crawler" para acessar o endpoint do Diário Oficial da União. Por meio desse mecanismo, serão realizadas pesquisas diárias em busca de editais que mencionem meus funcionários. Posteriormente, os arquivos em formato PDF serão baixados, filtrados e armazenados de forma a permitir a visualização dessas informações. Dessa maneira, qualquer funcionário da minha empresa que possua algum registro no Diário Oficial será prontamente identificado e apresentado no sistema de gestão.
+<b>Problema: </b>O cliente esta em busca de algo capaz de proporcionar o cadastro de usuários (funcionários) para sua empresa. Esse projeto deve viabilizar a gestão eficiente dos funcionários, abrangendo a criação, exclusão, edição e visualização de seus perfis. Além disso, é imprescindível que ele incorpore um mecanismo para para acessar o endpoint do Diário Oficial da União. Por meio desse mecanismo, serão realizadas pesquisas diárias em busca de editais que mencionem seus funcionários. Posteriormente, os arquivos em formato PDF tem que ser baixados, filtrados e armazenados de forma a permitir a visualização dessas informações. Dessa maneira, qualquer funcionário de sua empresa que possua algum registro no Diário Oficial será prontamente identificado e apresentado no sistema de gestão.
 
 <b>Solução: </b> A partir da apresentação do desafio enfrentado pela empresa parceira, MidAll[B], a solução desenvolvida se configura em um Crawler com sistema de gerenciamento de associados, que compreende em um sistema que consiga buscar, ler o arquivo e distinguir o conteúdo referente aos Professores Associados, realizar os cruzamentos essenciais de acordo com as bases de dados de colaboradores que carregam está explicação, registrar todos os processos publicados relacionados aos associados, e emitir relatório diário para que a equipe do Backoffice consiga disparar os e-mails para os docentes citados no Diário Oficial.
 
@@ -76,32 +77,18 @@ Neste projeto, assumi o papel de Master e tive a oportunidade de desempenhar um 
 - Como desenvolvedor e líder, enfrentei muitos problemas que tive que resolver de forma rápida e eficiente.
 - Como desenvolvedor, tive que aprender rapidamente todas as novas tecnologias que seriam utilizadas no sistema, a fim de aplicá-las ao projeto.
 
-Em Resumo, minha contribuições para o projeto foi como Master e desenvolvedor, ajudei no frontend e no backend, além de auxliar o P.O e o time no entendimento do projeto.
+<b>Hard Skills: </b> 
+No que se refere à parte do backend neste projeto, assumi a responsabilidade de coordenar a distribuição das tarefas entre a equipe de backend. Minha maior contribuição ocorreu no desenvolvimento do backend em TypeScript, onde trabalhei com todas as operações de criação, leitura, atualização e exclusão (CRUD) do projeto. Além disso, também participei do desenvolvimento de um bot em Python e JavaScript, responsável por baixar os arquivos PDF e classificá-los por funcionário. Ao longo do projeto, tive uma evolução significativa nessas tecnologias, aprendendo muito durante o processo. Embora tenha enfrentado algumas dificuldades com TypeScript, consegui superá-las e resolver todos os desafios que surgiram. Também contribuí no front-end, especialmente na integração com o backend e na implementação de recursos responsivos.
 
 ### [API - 3º Semestre](https://github.com/orgs/CopiloTTeam/repositories)
 
 <b>Problema: </b>
-Preciso de um sistema que solucione desafios nas áreas de gerenciamento de clientes, gerenciamento de títulos, gerenciamento de funcionários e consulta de endereço por CEP na API dos Correios. O sistema também deve fornecer relatórios de cobranças, processamento em lote, ajustes de bugs e envio de e-mails.
 
-No gerenciamento de clientes, preciso criar, buscar, atualizar e excluir usuários como administrador. O perfil comercial deve criar, buscar e atualizar usuários.
+Nosso cliente enfrenta um problema em sua empresa de pagamentos, relacionado ao processo de cadastramento de clientes, produtos e compras. Atualmente, todas as compras geram automaticamente 12 parcelas, cada uma com uma data de vencimento específica, e é necessário validar os CPFs de todos os clientes. O cliente expressa insatisfação com a duração excessiva desse processo e a falta de organização geral. Portanto, ele precisa de um projeto que ofereça um sistema de cadastramento de clientes com validações automáticas de CPF, além de gerar parcelas de compras e boletos fora do horário de expediente, para evitar sobrecarregar os funcionários.
 
-Para o gerenciamento de títulos, o administrador precisa criar, editar, buscar e excluir títulos, além de dar baixa em parcelas. O perfil comercial pode criar, editar e buscar títulos. O perfil financeiro pode dar baixa nas parcelas pagas pelos clientes.
-
-Na gestão de funcionários, o sistema deve permitir a exclusão de funcionários, alteração de cargos, aceitação de novos funcionários e atribuição de cargos. Os perfis de administrador, financeiro e comercial também devem poder fazer login.
-
-O sistema também deve cadastrar endereços de clientes a partir do CEP, utilizando a API dos Correios. A segurança é uma prioridade, garantindo a proteção contra invasões.
-
-Em relação aos relatórios de cobranças, o administrador deve ter acesso a um relatório completo, com informações sobre clientes adimplentes e inadimplentes. O perfil comercial precisa de acesso a um relatório parcial, focado em clientes inadimplentes.
-
-Para otimizar o processamento de parcelas, o sistema deve realizar o processamento em lote após o expediente.
-
-Por fim, o sistema deve estar em conformidade com as expectativas e requisitos estabelecidos pelo cliente, abrangendo ajustes de bugs e a funcionalidade de envio de e-mails para cobrança de boletos.
-
-É essencial que o sistema proposto integre e harmonize todas essas funcionalidades, proporcionando uma solução abrangente e eficiente para a gestão dos processos financeiros e comerciais.
+É de extrema importância para o cliente que o projeto siga algumas regras de negócio, como a formatação adequada dos preços, e que as informações estejam disponíveis de acordo com a função de cada funcionário na empresa. Além de tudo isso, o cliente deseja uma maneira de visualizar todos os clientes com parcelas atrasadas, bem como aqueles que efetuaram o pagamento, e obter informações sobre a diferença de tempo entre a data de pagamento e a data de crédito das parcelas geradas.
 
 <b>Solução: </b> A solução proposta é um sistema abrangente que inclui cadastro de clientes e gestão de títulos com parcelas, integrando-se à API dos correios para facilitar a inserção de dados de endereço. Com a capacidade de processar parcelas automaticamente em lote e fora do expediente, o sistema promove maior agilidade e eficiência. A segmentação em diferentes tipos de usuários, como comercial, financeiro e administrador, possibilita a criação e gestão centralizada de títulos e parcelas, adaptando-se às necessidades específicas de cada setor. Além disso, a mascara para moedas permite a formatação correta dos valores financeiros. Ademais, o sistema gera relatórios detalhados de clientes adimplentes e inadimplentes, com opções de filtragem por data de credito, de pagamento ou de vencimento. Com essa solução, o cliente pode aliviar suas dores e otimizar seu desempenho empresarial.
-
-Neste projeto, desempenhei o papel de Product Owner, atuando como um elo entre a equipe de desenvolvimento e o cliente. Garanti a priorização adequada dos requisitos e validei a conformidade do produto com as expectativas do cliente, buscando sua plena satisfação.
 
 <b>Tecnologias Utilizadas:</b>
 - <img src="https://img.icons8.com/officel/48/000000/react.png"/> React
@@ -125,7 +112,8 @@ Neste projeto, desempenhei o papel de Product Owner, atuando como um elo entre a
 
 - Um dos resultados do meu trabalho com a equipe foi o desenvolvimento da capacidade de aprendizagem rápida. Ao adotarmos o processo Scrum, conseguimos entregar um MVP em apenas três semanas, demonstrando nossa habilidade em absorver conhecimento rapidamente e aplicá-lo de forma eficaz.
 
-<b>Minhas Contribuições: </b> Como P.O fui responsável por ajudar no backlog e no planejamento das sprints, como desenvolvedor, ajudei com o desenvolvimento do front-end e do back-end.
+<b>Hard Skills: </b> 
+No que se refere ao backend, assumi a principal responsabilidade pelo desenvolvimento do projeto. Fui responsável por criar todos os CRUDs e relacionamentos utilizando a linguagem Java, além de ter criado o banco de dados. Também contribuí para a integração com o front-end e organizei a estrutura do projeto como um todo. No entanto, minha participação no desenvolvimento do front-end foi limitada. Minha contribuição se concentrou principalmente na resolução de problemas relacionados ao TypeScript, que foi utilizado em conjunto com o framework React.
 
 ## Experiência Profissional 💼
 
